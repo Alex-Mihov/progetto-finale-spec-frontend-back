@@ -1,0 +1,865 @@
+[
+    {
+        "id": 1,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "description": "Un'avventura open world epica nel regno di Hyrule.",
+        "category": "Action-Adventure",
+        "platforms": [
+            "Nintendo Switch"
+        ],
+        "publisher": "Nintendo",
+        "releaseDate": "2017-03-03",
+        "ageRating": "PEGI 12",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/zelda_botw.jpg",
+        "userRating": 9.7,
+        "createdAt": "2025-06-23T15:01:23.588Z",
+        "updatedAt": "2025-06-23T15:01:23.588Z"
+    },
+    {
+        "id": 2,
+        "title": "Red Dead Redemption 2",
+        "description": "Un'avventura western open world con una storia coinvolgente.",
+        "category": "Action-Adventure",
+        "platforms": [
+            "PS4",
+            "Xbox One",
+            "PC"
+        ],
+        "publisher": "Rockstar Games",
+        "releaseDate": "2018-10-26",
+        "ageRating": "PEGI 18",
+        "multiplayer": true,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 49.99,
+        "discountPrice": 39.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/rdr2.jpg",
+        "userRating": 9.7,
+        "createdAt": "2025-06-23T15:01:23.588Z",
+        "updatedAt": "2025-06-23T15:01:23.588Z"
+    },
+    {
+        "id": 3,
+        "title": "The Witcher 3: Wild Hunt",
+        "description": "Un RPG fantasy con una trama profonda e espansiva.",
+        "category": "RPG",
+        "platforms": [
+            "PS4",
+            "Xbox One",
+            "PC",
+            "Nintendo Switch"
+        ],
+        "publisher": "CD Projekt Red",
+        "releaseDate": "2015-05-19",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 39.99,
+        "discountPrice": 19.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/witcher3.jpg",
+        "userRating": 9.3,
+        "createdAt": "2025-06-23T15:01:23.588Z",
+        "updatedAt": "2025-06-23T15:01:23.588Z"
+    },
+    {
+        "id": 4,
+        "title": "God of War",
+        "description": "Kratos affronta nuove sfide nella mitologia norrena.",
+        "category": "Action-Adventure",
+        "platforms": [
+            "PS4",
+            "PC"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2018-04-20",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 39.99,
+        "discountPrice": 29.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/gow.jpg",
+        "userRating": 9.4,
+        "createdAt": "2025-06-23T15:01:23.588Z",
+        "updatedAt": "2025-06-23T15:01:23.588Z"
+    },
+    {
+        "id": 5,
+        "title": "Super Mario Odyssey",
+        "description": "Mario esplora mondi 3D in un'avventura colorata.",
+        "category": "Platform",
+        "platforms": [
+            "Nintendo Switch"
+        ],
+        "publisher": "Nintendo",
+        "releaseDate": "2017-10-27",
+        "ageRating": "PEGI 7",
+        "multiplayer": true,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/mario_odyssey.jpg",
+        "userRating": 9.7,
+        "createdAt": "2025-06-23T15:01:23.588Z",
+        "updatedAt": "2025-06-23T15:01:23.588Z"
+    },
+    {
+        "id": 6,
+        "title": "Cyberpunk 2077",
+        "description": "Un RPG futuristico ambientato a Night City.",
+        "category": "RPG",
+        "platforms": [
+            "PS4",
+            "Xbox One",
+            "PC"
+        ],
+        "publisher": "CD Projekt Red",
+        "releaseDate": "2020-12-10",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 29.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/cyberpunk2077.jpg",
+        "userRating": 8.6,
+        "createdAt": "2025-06-23T15:01:23.588Z",
+        "updatedAt": "2025-06-23T15:01:23.588Z"
+    },
+    {
+        "id": 7,
+        "title": "Elden Ring",
+        "description": "Un action RPG open world creato da FromSoftware.",
+        "category": "Action RPG",
+        "platforms": [
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series X",
+            "PC"
+        ],
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "2022-02-25",
+        "ageRating": "PEGI 16",
+        "multiplayer": true,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/elden_ring.jpg",
+        "userRating": 9.6,
+        "createdAt": "2025-06-23T15:01:23.588Z",
+        "updatedAt": "2025-06-23T15:01:23.588Z"
+    },
+    {
+        "id": 8,
+        "title": "Marvel's Spider-Man",
+        "description": "Vivi l'avventura di Spider-Man a New York.",
+        "category": "Action-Adventure",
+        "platforms": [
+            "PS4",
+            "PC"
+        ],
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2018-09-07",
+        "ageRating": "PEGI 16",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 39.99,
+        "discountPrice": 29.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/spiderman.jpg",
+        "userRating": 8.7,
+        "createdAt": "2025-06-23T15:01:23.588Z",
+        "updatedAt": "2025-06-23T15:01:23.588Z"
+    },
+    {
+        "id": 9,
+        "title": "Final Fantasy VII Remake",
+        "description": "Il classico JRPG rivisitato con grafica moderna.",
+        "category": "RPG",
+        "platforms": [
+            "PS4",
+            "PS5",
+            "PC"
+        ],
+        "publisher": "Square Enix",
+        "releaseDate": "2020-04-10",
+        "ageRating": "PEGI 16",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 39.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/ff7_remake.jpg",
+        "userRating": 8.7,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 10,
+        "title": "Minecraft",
+        "description": "Un sandbox creativo dove puoi costruire tutto ciò che immagini.",
+        "category": "Sandbox",
+        "platforms": [
+            "PC",
+            "PS4",
+            "Xbox One",
+            "Nintendo Switch",
+            "Mobile"
+        ],
+        "publisher": "Mojang Studios",
+        "releaseDate": "2011-11-18",
+        "ageRating": "PEGI 7",
+        "multiplayer": true,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 29.99,
+        "discountPrice": 19.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/minecraft.jpg",
+        "userRating": 9.3,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 11,
+        "title": "Horizon Zero Dawn",
+        "description": "Un'eroina in un mondo post-apocalittico pieno di macchine.",
+        "category": "Action RPG",
+        "platforms": [
+            "PS4",
+            "PC"
+        ],
+        "publisher": "Guerrilla Games",
+        "releaseDate": "2017-03-01",
+        "ageRating": "PEGI 16",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 39.99,
+        "discountPrice": 29.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/horizon_zero_dawn.jpg",
+        "userRating": 8.9,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 12,
+        "title": "Death Stranding",
+        "description": "Un viaggio misterioso in un mondo devastato.",
+        "category": "Action",
+        "platforms": [
+            "PS4",
+            "PC"
+        ],
+        "publisher": "Kojima Productions",
+        "releaseDate": "2019-11-08",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 49.99,
+        "discountPrice": 39.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/death_stranding.jpg",
+        "userRating": 8.2,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 13,
+        "title": "Animal Crossing: New Horizons",
+        "description": "Crea la tua isola paradisiaca e socializza con gli animali.",
+        "category": "Life Simulation",
+        "platforms": [
+            "Nintendo Switch"
+        ],
+        "publisher": "Nintendo",
+        "releaseDate": "2020-03-20",
+        "ageRating": "PEGI 3",
+        "multiplayer": true,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/animal_crossing.jpg",
+        "userRating": 9,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 14,
+        "title": "Persona 5 Royal",
+        "description": "Un JRPG con elementi di simulazione sociale e una trama avvincente.",
+        "category": "RPG",
+        "platforms": [
+            "PS4",
+            "PS5",
+            "PC"
+        ],
+        "publisher": "Atlus",
+        "releaseDate": "2020-10-21",
+        "ageRating": "PEGI 16",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/persona_5_royal.jpg",
+        "userRating": 9.5,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 15,
+        "title": "Hades",
+        "description": "Un roguelike d'azione ambientato nell'oltretomba della mitologia greca.",
+        "category": "Action Roguelike",
+        "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series X",
+            "Nintendo Switch"
+        ],
+        "publisher": "Supergiant Games",
+        "releaseDate": "2020-09-17",
+        "ageRating": "PEGI 16",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 24.99,
+        "discountPrice": 19.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/hades.jpg",
+        "userRating": 9.3,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 16,
+        "title": "Ghost of Tsushima",
+        "description": "Un samurai deve proteggere la sua terra dagli invasori mongoli.",
+        "category": "Action-Adventure",
+        "platforms": [
+            "PS4",
+            "PS5"
+        ],
+        "publisher": "Sucker Punch Productions",
+        "releaseDate": "2020-07-17",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/ghost_of_tsushima.jpg",
+        "userRating": 8.3,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 17,
+        "title": "Sekiro: Shadows Die Twice",
+        "description": "Un action-adventure RPG ambientato nel Giappone feudale.",
+        "category": "Action-Adventure",
+        "platforms": [
+            "PS4",
+            "Xbox One",
+            "PC"
+        ],
+        "publisher": "FromSoftware",
+        "releaseDate": "2019-03-22",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 39.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/sekiro.jpg",
+        "userRating": 9,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 18,
+        "title": "Resident Evil Village",
+        "description": "Survival horror in un villaggio misterioso e inquietante.",
+        "category": "Survival Horror",
+        "platforms": [
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series X",
+            "PC"
+        ],
+        "publisher": "Capcom",
+        "releaseDate": "2021-05-07",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/re_village.jpg",
+        "userRating": 8.4,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 19,
+        "title": "It Takes Two",
+        "description": "Un'avventura cooperativa su misura per due giocatori.",
+        "category": "Platform Adventure",
+        "platforms": [
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series X",
+            "PC"
+        ],
+        "publisher": "Electronic Arts",
+        "releaseDate": "2021-03-26",
+        "ageRating": "PEGI 12",
+        "multiplayer": true,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 39.99,
+        "discountPrice": 29.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/it_takes_two.jpg",
+        "userRating": 8.8,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 20,
+        "title": "Demon's Souls",
+        "description": "Un action RPG che è un remake del classico cult.",
+        "category": "Action RPG",
+        "platforms": [
+            "PS5"
+        ],
+        "publisher": "Bluepoint Games",
+        "releaseDate": "2020-11-12",
+        "ageRating": "PEGI 16",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 69.99,
+        "discountPrice": 59.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/demons_souls.jpg",
+        "userRating": 9.2,
+        "createdAt": "2025-06-23T15:01:23.589Z",
+        "updatedAt": "2025-06-23T15:01:23.589Z"
+    },
+    {
+        "id": 21,
+        "title": "Deathloop",
+        "description": "Un mix di azione e stealth in un ciclo temporale senza fine.",
+        "category": "Action-Adventure",
+        "platforms": [
+            "PS5",
+            "PC"
+        ],
+        "publisher": "Bethesda",
+        "releaseDate": "2021-09-14",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/deathloop.jpg",
+        "userRating": 8.8,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    },
+    {
+        "id": 22,
+        "title": "Control",
+        "description": "Un'avventura paranormale in un mondo misterioso e in continua evoluzione.",
+        "category": "Action-Adventure",
+        "platforms": [
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series X",
+            "PC"
+        ],
+        "publisher": "Remedy Entertainment",
+        "releaseDate": "2019-08-27",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 39.99,
+        "discountPrice": 29.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/control.jpg",
+        "userRating": 8.5,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    },
+    {
+        "id": 23,
+        "title": "Doom Eternal",
+        "description": "Il classico sparatutto in prima persona con nuove meccaniche e una storia avvincente.",
+        "category": "FPS",
+        "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series X"
+        ],
+        "publisher": "id Software",
+        "releaseDate": "2020-03-20",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/doom_eternal.jpg",
+        "userRating": 8.8,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    },
+    {
+        "id": 24,
+        "title": "Ratchet & Clank: Rift Apart",
+        "description": "Un'avventura interdimensionale con Ratchet e Clank.",
+        "category": "Platform",
+        "platforms": [
+            "PS5"
+        ],
+        "publisher": "Insomniac Games",
+        "releaseDate": "2021-06-11",
+        "ageRating": "PEGI 7",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 69.99,
+        "discountPrice": 59.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/ratchet_clank_rift_apart.jpg",
+        "userRating": 8.8,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    },
+    {
+        "id": 25,
+        "title": "Astro's Playroom",
+        "description": "Un platformer 3D che mostra le potenzialità del PS5 DualSense controller.",
+        "category": "Platform",
+        "platforms": [
+            "PS5"
+        ],
+        "publisher": "Team Asobi",
+        "releaseDate": "2020-11-12",
+        "ageRating": "PEGI 7",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 0,
+        "discountPrice": 0,
+        "availability": true,
+        "image": "http://localhost:3001/images/astros_playroom.jpg",
+        "userRating": 8.3,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    },
+    {
+        "id": 26,
+        "title": "Returnal",
+        "description": "Un roguelike sparatutto in terza persona con elementi horror.",
+        "category": "Third-person Shooter",
+        "platforms": [
+            "PS5"
+        ],
+        "publisher": "Housemarque",
+        "releaseDate": "2021-04-30",
+        "ageRating": "PEGI 16",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 69.99,
+        "discountPrice": 59.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/returnal.jpg",
+        "userRating": 8.5,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    },
+    {
+        "id": 27,
+        "title": "Metroid Dread",
+        "description": "L'ultima avventura di Samus Aran in un mondo alieno pieno di pericoli.",
+        "category": "Action-Adventure",
+        "platforms": [
+            "Nintendo Switch"
+        ],
+        "publisher": "Nintendo",
+        "releaseDate": "2021-10-08",
+        "ageRating": "PEGI 12",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/metroid_dread.jpg",
+        "userRating": 8.8,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    },
+    {
+        "id": 28,
+        "title": "Half-Life: Alyx",
+        "description": "Un capitolo fondamentale della serie Half-Life, progettato per la realtà virtuale.",
+        "category": "VR FPS",
+        "platforms": [
+            "PC"
+        ],
+        "publisher": "Valve",
+        "releaseDate": "2020-03-23",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/half_life_alyx.jpg",
+        "userRating": 9.3,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    },
+    {
+        "id": 29,
+        "title": "Disco Elysium",
+        "description": "Un RPG innovativo con un sistema di dialogo profondo e una trama avvincente.",
+        "category": "RPG",
+        "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series X"
+        ],
+        "publisher": "ZA/UM",
+        "releaseDate": "2019-10-15",
+        "ageRating": "PEGI 18",
+        "multiplayer": false,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 39.99,
+        "discountPrice": 29.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/disco_elysium.jpg",
+        "userRating": 9.1,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    },
+    {
+        "id": 30,
+        "title": "Halo Infinite",
+        "description": "Il capitolo più recente della leggendaria serie di Halo.",
+        "category": "FPS",
+        "platforms": [
+            "Xbox Series X",
+            "PC"
+        ],
+        "publisher": "343 Industries",
+        "releaseDate": "2021-12-08",
+        "ageRating": "PEGI 16",
+        "multiplayer": true,
+        "languages": [
+            "Inglese",
+            "Italiano",
+            "Francese",
+            "Tedesco",
+            "Spagnolo"
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "availability": true,
+        "image": "http://localhost:3001/images/halo_infinite.jpg",
+        "userRating": 8.7,
+        "createdAt": "2025-06-23T15:01:23.590Z",
+        "updatedAt": "2025-06-23T15:01:23.590Z"
+    }
+]
